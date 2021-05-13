@@ -1,0 +1,23 @@
+name: tig_ep_utils
+description: A new Flutter package project.
+version: 0.0.1
+author:
+homepage: https://github.com/liunina/tig_ep_utils
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  hex: ^0.2.0
+  gbk_codec: ^0.3.2
+  image: ^3.0.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - packages/esc_pos_utils/resources/capabilities.json
