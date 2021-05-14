@@ -1,3 +1,7 @@
+## [0.0.4] - TODO: Add release date.
+
+- remove list
+
 ## [0.0.3] - TODO: Add release date.
 
 - fix
